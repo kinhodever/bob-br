@@ -1,2 +1,2 @@
 # bob-br
-Experiências para quem busca fazer o meu primeiro projeto de programação do Zero
+Minhas Experiências construindo o meu primeiro projeto de programação do Zero
